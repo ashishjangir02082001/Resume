@@ -1,0 +1,64 @@
+{
+	"basics": {
+		"name": "Ashish Jangir",
+		"label": "Student",
+		"picture": "",
+		"email": "2019kucp1109@iiitkota.ac.in",
+		"phone": "9625595089",
+		"summary": "A B-Tech, Computer Science student at Indian Institute of Information technology, Kota(India).",
+		"location": {
+			"address": "Sector-3, Faridabad",
+			"postalCode": "121004",
+			"city": "Faridabad",
+			"countryCode": "India",
+			"region": "Haryana"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "ashishjangir02082001",
+				"url": "https://github.com/ashishjangir02082001/"
+			},
+			{
+				"network": "linkedin",
+				"username": "Ashish Jangir",
+				"url": "https://www.linkedin.com/in/ashish-jangir/"
+			},
+			{
+				"network": "Instagram",
+				"username": "ashishjangir282001",
+				"url": "https://www.instagram.com/ashishjangir282001/"
+			}
+		]
+	},
+	"work": [{
+		"company": "Houseitt and WeSettle",
+		"position": "Business Development Associate",
+		"website": "----",
+		"startDate": "2020-10-01",
+		"endDate": "2020-10-15",
+		"summary": "Worked in a team of go-getters to help spread the cause and need of the idea.",
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2019-02-08",
+		"endDate": "2023",
+		"gpa": "8.21 (till 4th sem)",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "Python(beginner)", "MySQL"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Badminton", "Sudoku"]
+	},
+	{
+		"name": "Singing",
+	}],
+}
