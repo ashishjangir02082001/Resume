@@ -13,8 +13,7 @@
 			"countryCode": "India",
 			"region": "Haryana"
 		},
-		"profiles": [
-			{
+		"profiles": [{
 				"network": "Github",
 				"username": "ashishjangir02082001",
 				"url": "https://github.com/ashishjangir02082001/"
@@ -37,7 +36,7 @@
 		"website": "----",
 		"startDate": "2020-10-01",
 		"endDate": "2020-10-15",
-		"summary": "Worked in a team of go-getters to help spread the cause and need of the idea.",
+		"summary": "Worked in a team of go-getters to help spread the cause and need of the idea."
 	}],
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
@@ -55,10 +54,11 @@
 		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "Python(beginner)", "MySQL"]
 	}],
 	"interests": [{
-		"name": "Sports",
-		"keywords": ["Badminton", "Sudoku"]
-	},
-	{
-		"name": "Singing",
-	}],
+			"name": "Sports",
+			"keywords": ["Badminton", "Sudoku"]
+		},
+		{
+			"name": "Singing"
+		}
+	]
 }
